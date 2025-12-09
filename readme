@@ -1,0 +1,61 @@
+Dashboard Description: British Airways Review Analysis
+This dashboard provides a comprehensive analysis of British Airways customer reviews based on multiple dimensions, offering insights into performance trends over time, geographical distribution, and service/aircraft-specific ratings.
+
+1. Key Performance Indicators (KPIs)
+The top section displays the Average Rating across several key metrics:
+
+Overall Rating: 4.2
+
+Avg. Cabin Staff Service: 3.3
+
+Avg. Seat Comfort: 2.9
+
+Avg. Food Beverages: 2.4 (The lowest-rated category)
+
+Avg. Ground Service: 3.0
+
+Avg. Value For Money: 2.8
+
+Avg. Entertainment: 1.4 (Correction: This is likely a typo in the dashboard image and should probably be higher, or it is a very low-rated category.)
+
+2. Filters and Context
+On the left, users can refine the analysis using various filters:
+
+Pick a metric: Allows switching the primary metric for the visualizations (e.g., Overall Rating, Cabin Staff Service, Entertainment, etc.).
+
+Month of Date: Filters data from March 2016 to October 2023.
+
+Traveller Type: Filters by categories like Business, Couple Leisure, Family Leisure, and Solo Leisure.
+
+Seat Type: Filters by classes such as Business Class, Economy Class, First Class, and Premium Economy.
+
+Aircraft (group) and Continent are also available as filters.
+
+3. Visualizations and Insights
+The main body of the dashboard consists of three primary charts:
+
+Average Overall Rating By Month (Time Series):
+
+Shows the fluctuation of the overall rating from 2016 through 2024 (with data ending in Oct 2023).
+
+Insight: The rating exhibits significant volatility over the years, with periods of both high and low performance.
+
+Average Overall Rating By Country (Choropleth Map):
+
+Displays the average rating overlaid on a world map, with countries shaded based on the rating.
+
+Insight: The map visually highlights which geographical regions (countries of reviewer origin) generally give British Airways higher or lower average ratings.
+
+Average Overall Rating By Air Craft (Bar Charts):
+
+This section uses two horizontal bar charts side-by-side:
+
+Left (Blue/Teal): Shows the Overall Rating for each aircraft type. The Boeing 747-400 and Boeing 787 appear to have the highest ratings.
+
+Right (Orange/Red): Shows the Number of Reviews for each aircraft type, providing context for the rating's sample size. The Airbus A320 and Boeing 777 have the highest volume of reviews.
+
+Insight: Users can quickly compare which aircraft models are rated best versus which models generate the most feedback.
+
+This dashboard is highly effective for operational teams to drill down into customer feedback, identify critical areas for improvement (like Food Beverages), and focus on specific aircraft models or traveler segments that require attention.
+
+Would you like me to analyze the specific average rating for a particular aircraft type, such as the Boeing 747-400?
